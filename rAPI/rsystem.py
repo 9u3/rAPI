@@ -59,12 +59,3 @@ class Rolimons:
                     return True
                 else:
                     return False
-
-roli = Rolimons()
-
-print(roli.nametoValue("Perfectly Legitimate Business Hat"))
-print(roli.isProjected("Perfectly Legitimate Business Hat"))
-print(roli.demand("Perfectly Legitimate Business Hat"))
-print(roli.trend("Perfectly Legitimate Business Hat"))
-print(roli.itemDetails("Perfectly Legitimate Business Hat"))
-print(roli.isRare("Perfectly Legitimate Business Hat"))
