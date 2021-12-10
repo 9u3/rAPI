@@ -1,6 +1,10 @@
 # rAPI
 Simple API to interact with the Rolimons API.
 
+## Download
+
+`pip install git+https://github.com/9u3/rAPI`
+
 ## Usage
 
 Initialize the module with
