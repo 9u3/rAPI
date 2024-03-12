@@ -4,7 +4,7 @@ setup(
   packages = ['rAPI'],
   version = '1.06',
   license='MIT',
-  description = 'API to interact with Rolimon's',
+  description = 'API to interact with Rolimon\'s',
   author = 'Nox Protogen',
   author_email = 'cfym.gamer@gmail.com',
   url = 'https://github.com/9u3/rAPI/',
