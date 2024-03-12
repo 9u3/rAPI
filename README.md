@@ -9,7 +9,7 @@ Simple API to interact with the Rolimons API.
 
 Initialize the module with
 ```py
-import Rolimons from rAPI
+from rAPI import Rolimons
 roli = Rolimons()
 ```
 
