@@ -10,7 +10,7 @@ setup(
   url = 'https://github.com/9u3/rAPI/',
   download_url = 'https://github.com/9u3/rAPI/tree/master/rAPI',
   keywords = ['wrapper', 'api', 'rolimons', 'roblox'],
-  install_requires=[],
+  install_requires=['requests'],
   classifiers=[
     'Development Status :: 5 - Production/Stable',
     'Intended Audience :: Developers',
